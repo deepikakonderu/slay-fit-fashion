@@ -125,20 +125,7 @@ Steps:
 
 ---
 
-## 📸 Screenshots
 
-(Add screenshots of your application here)
-
-Example:
-
-```
-Home Page
-Upload Clothing
-Generated Outfits
-Wardrobe Dashboard
-```
-
----
 
 ## 🎯 Future Improvements
 
